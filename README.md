@@ -53,5 +53,6 @@ git clone https://github.com/nvim-lua/kickstart.nvim.git $env:USERPROFILE\AppDat
 * [Comment](https://github.com/numToStr/Comment.nvim.git)
 * [indent-blankline](https://github.com/lukas-reineke/indent-blankline.nvim.git)
 * [lualine](https://github.com/nvim-lualine/lualine.nvim.git)
+* [gitsigns](https://github.com/lewis6991/gitsigns.nvim.git)
 
 
