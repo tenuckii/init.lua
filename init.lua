@@ -64,7 +64,7 @@ require('lazy').setup({
         dependencies = {
             'nvim-treesitter/nvim-treesitter-textobjects',
         },
-        build = ':TSUpdate',
+        --build = ':TSUpdate',
     },
     {
         'neovim/nvim-lspconfig',
@@ -176,10 +176,8 @@ require('lazy').setup({
     },
 
     require 'kickstart.plugins.autoformat',
-    require 'kickstart.plugins.debug',
+    --require 'kickstart.plugins.debug',
 
     { import = 'plugins' },
 }, {})
-
-
 require('neodev').setup()
