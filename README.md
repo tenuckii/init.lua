@@ -38,7 +38,7 @@ git clone https://github.com/nvim-lua/kickstart.nvim.git $env:USERPROFILE\AppDat
 * [vim-fugitive](https://github.com/tpope/vim-fugitive.git)
 * [vim-rhubarb](https://github.com/tpope/vim-rhubarb.git)
 * [vim-sleuth](https://github.com/tpope/vim-sleuth.git)
-* [harpoon](https://github.com/ThePrimeagen/harpoon.git)
+* [harpoon2](https://github.com/ThePrimeagen/harpoon.git)
 * [neo-tree](https://github.com/nvim-neo-tree/neo-tree.nvim.git)
 * [which-key](https://github.com/folke/which-key.nvim.git)
 * [onedark](https://github.com/navarasu/onedark.nvim.git)
