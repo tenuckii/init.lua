@@ -4,9 +4,6 @@ This repo is a fork of [kickstart](https://github.com/nvim-lua/kickstart.nvim.gi
 
 ### Installation
 
-> **NOTE** 
-> [Backup](#FAQ) your previous configuration (if any exists)
-
 Requirements:
 * Make sure to review the readmes of the plugins if you are experiencing errors. In particular:
   * [ripgrep](https://github.com/BurntSushi/ripgrep#installation) is required for multiple [telescope](https://github.com/nvim-telescope/telescope.nvim#suggested-dependencies) pickers.
