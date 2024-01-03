@@ -21,17 +21,17 @@ Clone kickstart.nvim:
 
 - on Linux and Mac
 ```sh
-git clone https://github.com/nvim-lua/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+git clone https://github.com/tenuckii/init.lua.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
 ```
 
 - on Windows (cmd)
 ```
-git clone https://github.com/nvim-lua/kickstart.nvim.git %userprofile%\AppData\Local\nvim\ 
+git clone https://github.com/tenuckii/init.lua.git %userprofile%\AppData\Local\nvim\ 
 ```
 
 - on Windows (powershell)
 ```
-git clone https://github.com/nvim-lua/kickstart.nvim.git $env:USERPROFILE\AppData\Local\nvim\ 
+git clone https://github.com/tenuckii/init.lua.git $env:USERPROFILE\AppData\Local\nvim\ 
 ```
 ### Plugins
 
